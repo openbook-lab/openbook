@@ -2,7 +2,7 @@
 
 OpenBook 是 OpenBook Lab 主导的一个教科书开源计划。OpenBook Lab 是一群热爱开源并希望促进知识传播的普通人。
 
-访问我们的首页了解更多信息：<https://openbook.ry.rs>
+访问我们的首页了解更多信息：[openbook.ry.rs](https://openbook.ry.rs)
 
 编写新的开源教科书：[OBIP](OBIP.md)
 
